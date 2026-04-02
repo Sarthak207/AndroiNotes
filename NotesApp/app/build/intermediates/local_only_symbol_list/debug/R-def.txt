@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color card_bg
+color divider
+color primary
+color primary_dark
+color primary_light
+color text_hint
+color text_primary
+drawable input_bg
+id btn_add_note
+id et_note_input
+id recycler_notes
+id tv_note_text
+id tv_notes_label
+layout activity_main
+layout item_note
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string btn_add
+string hint_note
+style Theme.NotesApp
